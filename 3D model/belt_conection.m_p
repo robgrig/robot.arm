@@ -1,0 +1,66 @@
+﻿                 MASS PROPERTIES OF THE ASSEMBLY BELT_CONECTION
+
+                         VOLUME =  1.5809924e+05 MM^3
+                   SURFACE AREA =  7.7826980e+04 MM^2
+                AVERAGE DENSITY =  1.3881607e+00 KILOGRAM / MM^3
+                           MASS =  2.1946716e+05 KILOGRAM 
+
+       CENTER OF GRAVITY with respect to _BELT_CONECTION coordinate frame:
+X   Y   Z          -1.1817917e+01  2.9911399e+00 -5.3611123e+01  MM
+
+  INERTIA with respect to _BELT_CONECTION coordinate frame:  (KILOGRAM * MM^2)
+
+INERTIA TENSOR:
+Ixx Ixy Ixz         1.2362166e+09  2.2120605e+07 -2.2149933e+08
+Iyx Iyy Iyz         2.2120605e+07  1.2809498e+09  7.0042696e+07
+Izx Izy Izz        -2.2149933e+08  7.0042696e+07  1.4179950e+08
+
+ INERTIA at CENTER OF GRAVITY with respect to _BELT_CONECTION coordinate frame:
+                                                              (KILOGRAM * MM^2) 
+INERTIA TENSOR:
+Ixx Ixy Ixz         6.0347097e+08  1.4362651e+07 -8.2451128e+07
+Iyx Iyy Iyz         1.4362651e+07  6.1951620e+08  3.4849301e+07
+Izx Izy Izz        -8.2451128e+07  3.4849301e+07  1.0918447e+08
+
+                PRINCIPAL MOMENTS OF INERTIA:  (KILOGRAM * MM^2)
+I1  I2  I3          9.3233620e+07  6.1051190e+08  6.2842612e+08
+
+       ROTATION MATRIX from _BELT_CONECTION orientation to PRINCIPAL AXES:
+                       0.16105        0.78625        0.59655
+                      -0.06959       -0.59389        0.80153
+                       0.98449       -0.17060       -0.04093
+
+  ROTATION ANGLES from _BELT_CONECTION orientation to PRINCIPAL AXES (degrees):
+angles about x  y  z  -92.923         36.623        -78.424 
+
+                RADII OF GYRATION with respect to PRINCIPAL AXES:
+R1  R2  R3          2.0611116e+01  5.2742693e+01  5.3510911e+01  MM
+
+
+
+                  MASS PROPERTIES OF COMPONENTS OF THE ASSEMBLY
+          (in assembly units and the _BELT_CONECTION coordinate frame)
+
+                                     MATERIAL
+           DENSITY        MASS       C.G.:  X        Y         Z
+
+    BELT_ARM1                        UNKNOWN
+         1.30000e+00  4.62236e+04 -1.55475e+01  0.00000e+00  5.63145e+00
+    NEMA17                           UNKNOWN
+         2.90000e+00  0.00000e+00      ***          ***          ***    
+    BELT_PULLY_15MM                  UNKNOWN
+         1.30000e+00  1.83469e+03 -8.95256e+00  0.00000e+00 -2.21500e+01
+    BELT_PULLEY_75MM                 UNKNOWN
+         1.30000e+00  3.87777e+04 -1.37045e+01  0.00000e+00 -8.41500e+01
+    BELT_ARM_2                       UNKNOWN
+         1.30000e+00  5.86749e+04  7.74231e+00  0.00000e+00 -2.65321e+01
+    BELT_PULLEY_AXIS                 UNKNOWN
+         8.00000e+00  1.88370e+04 -5.03936e+00  0.00000e+00 -8.41500e+01
+    WORM_BEARING19X6X6               UNKNOWN
+         1.00000e+00  6.12611e+03 -2.00000e+01  0.00000e+00 -8.41500e+01
+    BELT_OUTPUT_SHAFT                UNKNOWN
+         1.30000e+00  4.51822e+04 -3.36362e+01  1.45291e+01 -1.05257e+02
+    BELT_PULLEY_15_PLATE             UNKNOWN
+         1.30000e+00  1.84461e+02 -1.16000e+01  0.00000e+00 -2.21500e+01
+    BELT_PULLET_75_PLATE             UNKNOWN
+         1.30000e+00  3.62649e+03 -1.16000e+01  0.00000e+00 -8.41500e+01
